@@ -1,8 +1,7 @@
 ![RogerWitkowski_header](https://raw.githubusercontent.com/RogerWitkowski/RogerWitkowski/main/2481809.jpg)
 ### Hi everyone 👋
 
-I would like to introduce myself, so my name is Roger Witkowski and I am a Junior Fullstack Developer in C# and .NET.
- 
+I would like to introduce myself, so my name is Roger Witkowski and I am a Junior Fullstack Developer in C# and .NET. 
 I started my journey with programming in Codecool in 2021🙂 During this year i became Junior Fullstack .NET Developer.
 These experiences showed me the path of self-development and the discipline i want to follow, to be an even better version 
 of myself from yesterday🙂
