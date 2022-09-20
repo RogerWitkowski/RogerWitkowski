@@ -42,7 +42,7 @@ Feel free to contact me in any case🙂.
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira" /></code>
 </div>
-
+<br/>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=RogerWitkowski&show_icons=true&theme=great-gatsby)](https://github.com/RogerWitkowski?tab=repositories)
 
