@@ -19,6 +19,11 @@ Feel free to contact me in any case🙂.
 
 [![](https://komarev.com/ghpvc/?username=RogerWitkowski&color=000000)](https://github.com/RogerWitkowski?tab=repositories)
 
+
+ 📫 How to reach me:
+ [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/roger-witkowski-8122a224a/)
+ [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:witkowski.roger@gmail.com)
+
 <!--
 **RogerWitkowski/RogerWitkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
