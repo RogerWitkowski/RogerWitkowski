@@ -17,16 +17,13 @@ I will be happy to help you, of course if you let me know about🤙🙂
 
 Feel free to contact me in any case🤙🙂.
 
-
-[![](https://komarev.com/ghpvc/?username=RogerWitkowski&color=000000)](https://github.com/RogerWitkowski?tab=repositories)
-<br/>
-
-
  📫 How to reach me:
  <br/>
  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/roger-witkowski-8122a224a/)
  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:witkowski.roger@gmail.com)
 
+[![](https://komarev.com/ghpvc/?username=RogerWitkowski&color=000000)](https://github.com/RogerWitkowski?tab=repositories)
+<br/>
 
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#" /></code>
