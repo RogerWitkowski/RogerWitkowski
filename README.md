@@ -17,7 +17,7 @@ I will be happy to help you, of course if you let me know about🤙🙂
 
 Feel free to contact me in any case🤙🙂.
 
-<br/>
+
 [![](https://komarev.com/ghpvc/?username=RogerWitkowski&color=000000)](https://github.com/RogerWitkowski?tab=repositories)
 <br/>
 
