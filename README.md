@@ -44,7 +44,10 @@ Feel free to contact me in any case🙂.
 </div>
 
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=RogerWitkowski&show_icons=true&theme=great-gatsby)](https://github.com/RogerWitkowski?tab=repositories)
 
+
+- 🌱 As a Junor Fullstack Developer i am currently learning all of the above technologies.
 <!--
 **RogerWitkowski/RogerWitkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
