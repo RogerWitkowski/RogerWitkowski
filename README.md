@@ -1,26 +1,29 @@
 ![RogerWitkowski_header](https://raw.githubusercontent.com/RogerWitkowski/RogerWitkowski/main/2481809.jpg)
 ### Hi everyone 👋
 
-I would like to introduce myself,so my name is Roger Witkowski and I am a Junior Fullstack Developer in C# and .NET. 
-I started my journey with programming in Codecool in 2021 :) During this year i became Junior Fullstack .NET Developer.
+I would like to introduce myself, so my name is Roger Witkowski and I am a Junior Fullstack Developer in C# and .NET. 
+I started my journey with programming in Codecool in 2021🙂 During this year i became Junior Fullstack .NET Developer.
 These experiences showed me the path of self-development and the discipline i want to follow, to be an even better version 
-of myself from yesterday.
+of myself from yesterday🙂
 
 
-I am still developing myself, i am hungry for knowledge and open for new challenges and help others :) 
+I am still developing myself, i am hungry for knowledge and open for new challenges and help others 🔥😊
  
 
  
 I am `Junior Fullstack .NET Developer`💻.
 
-I will be happy to help you, of course if you let me know about🙂
+I will be happy to help you, of course if you let me know about🤙🙂
 
-Feel free to contact me in any case🙂.
+Feel free to contact me in any case🤙🙂.
 
+<br/>
 [![](https://komarev.com/ghpvc/?username=RogerWitkowski&color=000000)](https://github.com/RogerWitkowski?tab=repositories)
+<br/>
 
 
  📫 How to reach me:
+ <br/>
  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/roger-witkowski-8122a224a/)
  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:witkowski.roger@gmail.com)
 
@@ -32,11 +35,11 @@ Feel free to contact me in any case🙂.
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png" alt="GitHub" title="GitHub" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/182618272-390ab138-7b29-44a0-85a2-62633957d815.png" alt="Visual Studio" title="Visual Studio" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/182618508-1b12183b-5398-48d2-92e7-ff0969a22624.png" alt="Postman" title="Postman" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger" /></code><br/>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183577242-5081ea3b-7a3c-419b-9b81-014bf32e2e69.png" alt="Sass" title="Sass" /></code>	
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183577242-5081ea3b-7a3c-419b-9b81-014bf32e2e69.png" alt="Sass" title="Sass" /></code>	<br/>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Microsoft Azure" title="Microsoft Azure" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows" /></code>
@@ -47,7 +50,7 @@ Feel free to contact me in any case🙂.
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=RogerWitkowski&show_icons=true&theme=great-gatsby)](https://github.com/RogerWitkowski?tab=repositories)
 
 
-- 🌱 As a Junor Fullstack Developer i am currently learning all of the above technologies.
+- 🌱 As a Junor Fullstack Developer i am currently learning all of the above technologies 💪💪💪
 <!--
 **RogerWitkowski/RogerWitkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
