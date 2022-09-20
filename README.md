@@ -1,4 +1,4 @@
-![RogerWitkowski_header](https://images.unsplash.com/photo-1520209759809-a9bcb6cb3241?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=800&ixid=MnwxfDB8MXxyYW5kb218MHx8aW1nfHx8fHx8MTY2MzY4MTI2NQ&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=800)
+![RogerWitkowski_header](https://raw.githubusercontent.com/RogerWitkowski/RogerWitkowski/main/2481809.jpg)
 ### Hi everyone 👋
 
 I would like to introduce myself,so my name is Roger Witkowski and I am a Junior Fullstack Developer in C# and .NET. 
