@@ -33,7 +33,7 @@ Feel free to contact me in any case🤙🙂.
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/182618272-390ab138-7b29-44a0-85a2-62633957d815.png" alt="Visual Studio" title="Visual Studio" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/182618508-1b12183b-5398-48d2-92e7-ff0969a22624.png" alt="Postman" title="Postman" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger" /></code>
-	<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="Swagger" title="Swagger" /></code><br/>
+	<code><img height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="Microsoft SQL Server" title="Microsoft SQL Server" /></code><br/>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" /></code>
