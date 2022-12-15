@@ -50,6 +50,8 @@ Feel free to contact me in any case🤙🙂.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RogerWitkowski&count_private=true&show_icons=true)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RogerWitkowski&show_icons=true&theme=radical&count_private=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RogerWitkowski&theme=tokyonight)](https://github.com/RogerWitkowski?tab=repositories)
 
 
