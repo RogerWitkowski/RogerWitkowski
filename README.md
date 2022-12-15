@@ -49,7 +49,7 @@ Feel free to contact me in any case🤙🙂.
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RogerWitkowski&theme=tokyonight)](https://github.com/RogerWitkowski/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RogerWitkowski&theme=tokyonight)]([https://github.com/RogerWitkowski/github-readme-stats](https://github.com/RogerWitkowski?tab=repositories))
 
 
 - 🌱 As a Junor Fullstack Developer i am currently learning all of the above technologies 💪💪💪
