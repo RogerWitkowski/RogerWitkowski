@@ -47,10 +47,10 @@ Feel free to contact me in any case🤙🙂.
 
 <!--[![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=RogerWitkowski&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/RogerWitkowski/github-readme-stats)-->
 
-[![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=RogerWitkowski&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/RogerWitkowski?tab=repositories)
+![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=RogerWitkowski&count_private=true&theme=tokyonight&show_icons=true)(https://github.com/RogerWitkowski?tab=repositories)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RogerWitkowski&theme=tokyonight&count_private=true)](https://github.com/RogerWitkowski?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RogerWitkowski&theme=tokyonight)](https://github.com/RogerWitkowski?tab=repositories)
 
 
 - 🌱 As a Junor Fullstack Developer i am currently learning all of the above technologies 💪💪💪
