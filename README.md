@@ -45,7 +45,7 @@ Feel free to contact me in any case🤙🙂.
 </div>
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=RogerWitkowski)](https://github.com/RogerWitkowski/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RogerWitkowski)](https://github.com/RogerWitkowski/github-readme-stats)
 
