@@ -49,6 +49,8 @@ Feel free to contact me in any case🤙🙂.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=Github&nbsp;Stats&username=RogerWitkowski&safdsaf=adsfsaf)](https://github.com/RogerWitkowski/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RogerWitkowski&repo=github-readme-stats)](https://github.com/RogerWitkowski/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RogerWitkowski)](https://github.com/RogerWitkowski/github-readme-stats)
 
 
